@@ -5,12 +5,12 @@ Minutes of ALI meeting on 13 Aug 2020
 
 Participants
 -------------
-Sujata Ghosh
-Amit Kuber
-Amaldev Manuel
-Sanjiva Prasad
-R Ramanujam
-Sankha S Basu
+Sujata Ghosh   
+Amit Kuber   
+Amaldev Manuel     
+Sanjiva Prasad    
+R Ramanujam     
+Sankha S Basu     
 
 
 Agenda Items
