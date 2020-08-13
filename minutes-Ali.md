@@ -29,4 +29,4 @@ Minutes
     + The program should be announced on the ALI website.
     + It is the responsibility of the local organizers to schedule the event at an appropriate time in consultation with the participants and the speakers.
     
-2. +  There is a proposal to run ICLA 2021 online on a different model, possiby with a post-conference refereed proceedings with selected papers from the conference. ALI members are encouraged to come up with their suggestions.
+2. +  There is a proposal to run ICLA 2021 online on a different model, possiby with a post-conference, refereed, proceedings with selected papers from the conference. ALI members are encouraged to come up with their suggestions. An email discussion will be initiated in a few days.
