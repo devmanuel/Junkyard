@@ -5,7 +5,7 @@ Registration
 ============
 
 Registration fee for authors of papers presented at FSTTCS 2020 is 10000 Rupees (approximately 115 Euros or 135 Dollars). 
-One author registration is sufficient per paper. The other authors can register as non-authors. The deadline for paper registration is
+One paper registration is sufficient per paper. The deadline for paper registration is
 **October 31**.
 
 Click [here](https://rzp.io/l/XHS6PrE) to go to the paper registration page.
